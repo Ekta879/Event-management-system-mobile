@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gather_ly
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Event-management-system-mobile
+>>>>>>> 05444d470f1ea08618759f63bc55db2184a74fe2
